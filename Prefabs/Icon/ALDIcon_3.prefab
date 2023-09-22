@@ -86,7 +86,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8673941321358503786}
   m_Layer: 23
-  m_Name: IconItem
+  m_Name: ALDIcon_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
